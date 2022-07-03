@@ -1,6 +1,6 @@
-- 👋 Hi, ich bin @dennis-BLN
-- 👀 ich bin hier wegen iobroker-adapter-Projekten
-- 👀 habe lange Solaris sowie diverse Datenbanksysteme administriert
+- 👋 Hi, my nam is Dennis
+- 👀 since 2020 I am learning to use iobroker
+- 👀 since 2000 I am working with solaris, linux, oracle, DB2, sybase, websphereMQ, HA-cluster, ...
 - 📫 mailto:github@ewod.de
 
 <!---
